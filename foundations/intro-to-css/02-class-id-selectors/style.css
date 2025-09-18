@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.main-class {
+    background-color: #fda7a8;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.mid {
+    font-size: 24px;
+}
+
+#id1 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#id2 {
+    background-color: #7efb7e;
+    font-size: 24px;
+    font-weight: bold;
+}
