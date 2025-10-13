@@ -26,3 +26,5 @@ body {
     padding: 32px;
     margin-left: auto;
 }
+
+/*With margin-left:auto, the auto calculates the entire available space and makes that the amount of space to the left of the element. Which pushes the element all the way to the right.*/
